@@ -24,7 +24,7 @@
     - Electron
     - React Native
     - Node.js
-      -Express.js
+      - Express.js
     - VanillaJS
     - Svelte
   - Database
