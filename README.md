@@ -14,6 +14,7 @@
   - Started development with basic HTML from 2019-.
   - Used to main in React Native for Mobile Hybrid Platform development -2020.
   - Mainly developing React-based Projects nowadays.
+  - Most of my works are not uploaded in public repository for security.
 
 # :computer: Tools
 
