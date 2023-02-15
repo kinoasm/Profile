@@ -8,7 +8,7 @@
 
 # :blush: I am... 
 
-  - Basically Aiming Frontend Hybrid-Platform developer w/Javascript-based Frameworks.
+  - Basically aiming frontend & crossplatform developer w/Javascript-based Frameworks.
   - Started development with basic HTML from 2019-.
   - Used to main in React Native for Mobile Hybrid Platform development -2020.
   - Mainly developing React-based Projects nowadays.
