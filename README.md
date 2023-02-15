@@ -10,8 +10,8 @@
 
   - Basically aiming frontend & crossplatform developer w/Javascript-based Frameworks.
   - Started development with basic HTML from 2019-.
-  - Used to main in React Native for Mobile Hybrid Platform development -2020.
-  - Mainly developing React-based Projects nowadays.
+  - Used to main in React Native for mobile hybrid platform development -2020.
+  - Mainly developing React-based projects nowadays.
   - Most of my works are uploaded in private repository for security.
 
 # :computer: Tools
