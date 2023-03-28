@@ -2,10 +2,6 @@
 
 ## Profile Page of kinoasm - Jay Kim
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinoasm&layout=compact&theme=onedark)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crayonpie1)](https://solved.ac/crayonpie1/)
-
 # :blush: I am... 
 
   - Basically aiming frontend & crossplatform developer w/Javascript-based Frameworks.
@@ -36,6 +32,13 @@
     - REST API w/MySQL, Postgre, Dynamo, and etc
     - GraphQL API
   - Python (little bit for basic algorithms)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinoasm&layout=compact&theme=onedark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crayonpie1)](https://solved.ac/crayonpie1/)
+
 
 # :mailbox_with_mail: Contacts
 
