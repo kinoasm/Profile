@@ -35,10 +35,9 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinoasm&layout=compact&theme=onedark)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crayonpie1)](https://solved.ac/crayonpie1/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinoasm&layout=compact&theme=onedark)
 
 # :mailbox_with_mail: Contacts
 
